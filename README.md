@@ -18,3 +18,6 @@ docker exec -it tf2notebook pip install --upgrade pip
 docker exec -it tf2notebook pip install tensorflow==2.0.0-alpha0
 docker exec -it tf2notebook pip install librosa
 ```
+
+![alt text](https://github.com/naikparag/speech-emotion-classifier-deep-learning/blob/master/images/librosa_speech_plot_1.png)
+![alt text](https://github.com/naikparag/speech-emotion-classifier-deep-learning/blob/master/images/librosa_speech_plot_2.png)
